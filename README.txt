@@ -1,0 +1,2 @@
+En este repositorio respondo una serie de 6 preguntas sobre Django, utilizando diferentes fuentes de informacion de paginas que fui encontrando.
+tambien complete las primeras ocho partes del tutorial de django de https://docs.djangoproject.com/en/5.2/intro/tutorial01/
